@@ -9,4 +9,5 @@ Route::get('/user', function (Request $request) {
 
 Route::get('/test', function () {
     return 'Hello, from Laravel!';
+    
 });
